@@ -1,0 +1,5 @@
+Yêu cầu thực hành hôm nay:
+1. lưu ý nộp hai module 1 và module 2 lên lms khi đi học lý thuyết;
+2. sinh viên tự demo lại bài toán phép tính cộng, trừ, nhân, chia để làm quen môi trường phòng máy;
+3. sinh viên đã được xem demo lập trình KẾT NỐI TRỰC TIẾP VÀO DATABASE MYSQL và các em phải demo lại cho quen môi trường dữ liệu (không thi phần này);
+4. GV sẽ demo tiếp phần thao tác dữ liệu (select, insert, update, và delete) thông qua API (THI).
